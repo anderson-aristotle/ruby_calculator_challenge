@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-require 'calc'
+require 'challenge'
 
 describe 'Requirements' do
   describe Calculator do
